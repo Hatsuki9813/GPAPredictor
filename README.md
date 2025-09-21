@@ -16,3 +16,7 @@
 - Chọn Model
 - Chọn số học kì đã học
 - Nhấn dự đoán
+### 4. Một số hình ảnh
+<p align="center">
+  <img src="predictor.png" alt="Demo" width="500"/>
+</p>
